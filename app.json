@@ -7,15 +7,15 @@
   "env": {
     "AUTHORIZED_USERS": {
       "description": "List of Authorized Users who can control this bot (Separate with spaces)",
-      "value": ""
+      "value": "1197918807 1320867884"
     },
     "APP_ID": {
       "description": "App ID of your telegram account (my.telegram.org)",
-      "value": ""
+      "value": "12512870"
     },
     "API_HASH": {
       "description": "API Hash of your telegram account (my.telegram.org)",
-      "value": ""
+      "value": "01e4639ae903f5d4a7b0876e5a3ea0a1"
     },
     "STRING_SESSION": {
       "description": "Your User Session",
@@ -23,11 +23,11 @@
     },
     "BOT_TOKEN": {
       "description": "Token of your bot (@BotFather)",
-      "value": ""
+      "value": "5942861283:AAEjSHy9sJzhRUowUNrNHutMSFiudUT8JyQ"
     },
     "MONGODB_URI": {
       "description": "Database URL from https://cloud.mongodb.com/",
-      "value": ""
+      "value": "mongodb+srv://FILEFORWARD:fileforwarderbot@cluster0.bnxo881.mongodb.net/?retryWrites=true&w=majority"
     },
     "LOG_CHANNEL": {
       "description": "Channel ID where you want to log error messages of bot (Optional)",
@@ -37,7 +37,7 @@
     "REQUIRED_CHAT_TO_JOIN": {
       "description": "Chat Id/username of channels/groups where you want your users to be joined to get files [Separate in spaces] (Optional)",
       "required": false,
-      "value": ""
+      "value": "@defenderofthemultiverse"
     },
     "WELCOME_MESSAGE": {
       "description": "Message which will be sent by bot on using /start command (Optional)",
