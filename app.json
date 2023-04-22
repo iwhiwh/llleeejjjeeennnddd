@@ -19,7 +19,7 @@
     },
     "STRING_SESSION": {
       "description": "Your User Session",
-      "value": ""
+      "value": "1BQANOTEuMTA4LjU2LjE0MgG7v9hETGXMi2aV4AkE6RcIOINlC/FtxHNhFxh3+eeGDbk6mojBqhdt9vFsz2T+24anX4BFLmOEuTjMbfZgqSLCth6Wt00Qt8o5z6r5yzwrdQl9e97riV88ISDgemwOaW/WGloCTMaBVHQaaDuJH5bwc8BHqnLEkSFE3oDu97JLG7UQfyKMIsYqqYsFxE73rVDXFFuy5j0iCkCCI42F5gkzZp6OvYKju5OYjMr5qu2GddoyoOMipyO7t6U1SRpiOFaFEJBF6FKJYmVhA7DQT6Oa2Xs2BATRK439kOmB34EKQavwSE1B40yjmcrdbw/CRYTq5RqYx7OsMO2lTTzDBKLfaA=="
     },
     "BOT_TOKEN": {
       "description": "Token of your bot (@BotFather)",
